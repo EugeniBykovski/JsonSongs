@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "address": {
+            "streetAddress": "Красная площадь, ЦАО",
+            "city": "Москва",
+            "state": "RU",
+            "zip": "1"
+        },
+        "description": "Отличный выбор",
+        "executor": "Баста",
+        "song": "Моя игра",
+        "genre": "Rap",
+        "year": "2008"
+    },
+    {
+        "id": 2,
+        "address": {
+            "streetAddress": "Lorem2",
+            "city": "London",
+            "state": "UK",
+            "zip": "2"
+        },
+        "description": "Отличный выбор",
+        "executor": "The Kingston Trio",
+        "song": "Tom Dooley",
+        "genre": "Folk",
+        "year": "1958"
+    },
+    {
+        "id": 3,
+        "address": {
+            "streetAddress": "Lorem3",
+            "city": "Berlin",
+            "state": "GR",
+            "zip": "3"
+        },
+        "description": "Отличный выбор",
+        "executor": "Led Zeppelin",
+        "song": "Kashmir",
+        "genre": "Rock",
+        "year": "1975"
+    },
+    {
+        "id": 4,
+        "address": {
+            "streetAddress": "Lorem4",
+            "city": "Lorem4",
+            "state": "Lorem4",
+            "zip": "4"
+        },
+        "description": "Отличный выбор",
+        "executor": "Miles Davis",
+        "song": "Blue in Green",
+        "genre": "Jazz",
+        "year": "1959"
+    },
+    {
+        "id": 5,
+        "address": {
+            "streetAddress": "Lorem5",
+            "city": "Lorem5",
+            "state": "Lorem5",
+            "zip": "5"
+        },
+        "description": "Отличный выбор",
+        "executor": "Muddy Waters",
+        "song": "Mannish Boy",
+        "genre": "Blues",
+        "year": "1955"
+    },
+    {
+        "id": 6,
+        "address": {
+            "streetAddress": "Lorem6",
+            "city": "Lorem6",
+            "state": "Lorem6",
+            "zip": "6"
+        },
+        "description": "Отличный выбор",
+        "executor": "Zivert",
+        "song": "Credo",
+        "genre": "Pop",
+        "year": "2019"
+    },
+    {
+        "id": 7,
+        "address": {
+            "streetAddress": "Lorem7",
+            "city": "Lorem7",
+            "state": "Lorem7",
+            "zip": "7"
+        },
+        "description": "Отличный выбор",
+        "executor": "RSAC",
+        "song": "NBA",
+        "genre": "Rap",
+        "year": "2020"
+    },
+    {
+        "id": 8,
+        "address": {
+            "streetAddress": "Красная площадь, ЦАО",
+            "city": "Москва",
+            "state": "RU",
+            "zip": "8"
+        },
+        "description": "Отличный выбор",
+        "executor": "Макс Барских",
+        "song": "Неземная",
+        "genre": "Pop",
+        "year": "2018"
+    },
+    {
+        "id": 9,
+        "address": {
+            "streetAddress": "Lorem9",
+            "city": "Lorem9",
+            "state": "Lorem9",
+            "zip": "9"
+        },
+        "description": "Отличный выбор",
+        "executor": "Navai",
+        "song": "Девочка война",
+        "genre": "Rap",
+        "year": "2018"
+    },
+    {
+        "id": 10,
+        "address": {
+            "streetAddress": "Lorem10",
+            "city": "Lorem10",
+            "state": "Lorem10",
+            "zip": "10"
+        },
+        "description": "Отличный выбор",
+        "executor": "Guf",
+        "song": "Ice",
+        "genre": "Rap",
+        "year": "2014"
+    }
+]
